@@ -27,6 +27,6 @@
     "webpack-cli": "5.0.1"
   },
   "dependencies": {
-    "gyron": "0.0.16"
+    "gyron": "0.0.37"
   }
 }
