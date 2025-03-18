@@ -31,7 +31,7 @@
   },
   "dependencies": {
     "@glimmer/babel-preset": "^2.0.0-beta.13",
-    "@glimmer/component": "^2.0.0-beta.16",
+    "@glimmer/component": "^2.0.0",
     "@glimmer/core": "^2.0.0-beta.16",
     "@glimmer/helper": "^2.0.0-beta.16",
     "@glimmer/modifier": "^2.0.0-beta.16",
