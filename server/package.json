@@ -18,7 +18,7 @@
     "@fastify/static": "^7.0.4",
     "@fastify/view": "^9.1.0",
     "ejs": "^3.1.10",
-    "fastify": "^4.28.1",
+    "fastify": "^4.29.1",
     "html-minifier": "^4.0.0",
     "tsx": "^4.19.0"
   },
