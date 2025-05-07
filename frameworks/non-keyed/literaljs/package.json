@@ -20,7 +20,7 @@
 	"author": "Michael Farrell",
 	"license": "MIT",
 	"dependencies": {
-		"@babel/runtime": "7.17.0",
+		"@babel/runtime": "7.26.10",
 		"literaljs": "7.0.2"
 	},
 	"devDependencies": {
