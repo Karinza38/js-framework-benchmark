@@ -35,7 +35,7 @@
     "chromedriver": "130.0.0",
     "cross-env": "7.0.3",
     "lighthouse": "12.2.1",
-    "playwright": "1.48.1",
+    "playwright": "1.56.0",
     "playwright-firefox": "1.48.1",
     "playwright-webkit": "1.48.1",
     "puppeteer-core": "23.6.0",
