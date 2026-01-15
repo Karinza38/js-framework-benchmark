@@ -10,7 +10,7 @@
   "version": "1.0.0",
   "type": "module",
   "dependencies": {
-    "@marko/run-adapter-static": "^0.1.5",
+    "@marko/run-adapter-static": "^0.1.7",
     "marko": "^5.31.0"
   },
   "devDependencies": {
